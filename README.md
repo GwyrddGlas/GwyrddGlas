@@ -5,11 +5,11 @@ I'm a passionate developer, deeply engrossed in the world of Lua programming and
 #### 🌟 Upcoming Projects
 
 - **Great British Rails** 🚂
-  - **Release:** Q2 2025
+  - **Release:** TBA
   - **About:** Embark on a journey through the picturesque landscapes of Great Britain in this immersive simulation game. Take control of a historic route and train operator, and experience the rich history and scenic beauty of the British railroads like never before.
 
 - **Voxel Quest** 🎮
-  - **Release:** Q4 2024
+  - **Release:** Q1 2025
   - **About:** Stay tuned for more details on this exciting adventure.
     
 #### 💬 About Me
