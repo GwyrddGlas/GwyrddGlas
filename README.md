@@ -1,6 +1,6 @@
 ### Shwmae! I'm GwyrddGlas 👋
 
-I'm a Welsh Lua developer transitioning from GTA5 mods to game development with LOVE2D. Join me on this exciting journey of learning and creativity!
+I'm a Welsh Lua developer transitioning from GTA5 Scripting to game development with LOVE2D. Join me on this exciting journey of learning and creativity!
 
 #### 🌟 Upcoming Projects
 
