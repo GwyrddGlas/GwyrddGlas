@@ -1,28 +1,23 @@
-### Shwmae! I'm GwyrddGlas 👋
+### Shwmae! I'm GwyrddGlas 👋  
 
-I'm a Welsh Lua developer transitioning from GTA5 Scripting to game development with LOVE2D. Join me on this exciting journey of learning and creativity!
+I’m a Lua developer transitioning from GTA5 scripting to game development using LOVE2D. I’m passionate about learning, creating, and bringing innovative ideas to life through code.  
 
-#### 🌟 Upcoming Projects
+#### 🌟 Projects in Development  
 
-- **Great British Rails** 🚂
- - **Release:** Coming soon!
- - **About:** Immerse yourself in the stunning landscapes of Great Britain in this captivating simulation game. Control a  route and train operator, and explore the rich history and beauty of British railways.
+- **Miners Odyssey** 🎮  
+  - **Release:** 2025  
+  - **About:** A thrilling adventure game under development—details coming soon!  
 
-- **Miners Odyssey** 🎮
- - **Release:** 2025
- - **About:** Stay tuned for more details on this thrilling adventure!
+#### 💬 About Me  
 
-#### 💬 About Me
+- **🔭 Current Focus:** Evolving from GTA5 modding to full-fledged game development.  
+- **🌱 Currently Learning:** Advanced Lua programming and object-oriented principles.  
+- **👯 Open to Collaborations:** On innovative game projects or scripting challenges.  
+- **💬 Let's Talk About:** Lua, game design, or creative tech ideas.  
+- **📫 Contact Me:** Discord: gwyrdd.  
+- **😄 Pronouns:** She/Her  
 
-- **🔭 Currently working on:** Transitioning from GTA5 mods to game development.
-- **🌱 Currently learning:** Lua OOP programming.
-- **👯 Seeking collaborations on:** Innovative game development projects.
-- **💬 Let's chat about:** Lua, game development, anything fun!.
-- **📫 How to reach me:** Discord: gwyrdd. (inlcude the dot)
-- **😄 Pronouns:** She/Her
+#### 📊 Developer Insights  
 
-#### 📊 Stats For Nerds
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GwyrddGlas&layout=compact&theme=dracula)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GwyrddGlas&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GwyrddGlas&layout=compact&theme=dracula)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GwyrddGlas&show_icons=true&theme=dracula)  
