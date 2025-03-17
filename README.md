@@ -4,8 +4,8 @@ I’m a Lua developer transitioning from GTA5 scripting to game development usin
 
 #### 🌟 Projects in Development  
 
-- **Miners Odyssey** 🎮  
-  - **Release:** 2025  
+- **Subterra** 🎮  
+  - **Release:** 2026  
   - **About:** A thrilling adventure game under development—details coming soon!  
 
 #### 💬 About Me  
@@ -14,7 +14,7 @@ I’m a Lua developer transitioning from GTA5 scripting to game development usin
 - **🌱 Currently Learning:** Advanced Lua programming and object-oriented principles.  
 - **👯 Open to Collaborations:** On innovative game projects or scripting challenges.  
 - **💬 Let's Talk About:** Lua, game design, or creative tech ideas.  
-- **📫 Contact Me:** Discord: gwyrdd.  
+- **📫 Contact Me:** Discord: gwyrddmor  
 - **😄 Pronouns:** She/Her  
 
 #### 📊 Developer Insights  
